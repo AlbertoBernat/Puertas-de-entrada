@@ -1,0 +1,31 @@
+project:
+  type: book
+
+lang: es
+book:
+  title: "Puertas de entrada: lecturas para introducirse a la Filosofía y la Literatura"
+  author: "Alberto Bernat"
+  date: "1/16/2024"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - sumario.qmd
+    - unidad1.qmd
+    - unidad2.qmd
+    - unidad3.qmd
+    - unidad4.qmd
+    - conclusiones.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+
+
+
