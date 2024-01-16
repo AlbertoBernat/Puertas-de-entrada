@@ -4,9 +4,8 @@ project:
 lang: es
 book:
   title: "Puertas de entrada: lecturas para introducirse a la Filosofía y la Literatura "
-  author: "Alberto Bernat"
+  author: "Alberto Bernat ![](images/Captura de pantalla 2024-01-16 a las 22.21.33.png)"
   date: "1/16/2024"
-  cover-image: images/Captura de pantalla 2024-01-16 a las 22.21.33.png
   cover-image-alt: |
     Seleccionar los textos adecuados para introducirnos en la lectura de esos autores y autoras a quienes solicitamos cobijo y compañía, supone uno de los aprendizajes más importantes en la interminable tarea de aprender a leer.
   search: true
